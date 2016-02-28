@@ -1,0 +1,10 @@
+.odd
+{
+	color: red;
+	list-style-type: square;
+}
+.even
+{
+	color: blue;
+	list-style-type: circle;
+}
